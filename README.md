@@ -24,6 +24,10 @@
 
     支持自定义样式的在线微信 Markdown 排版工具，写好后可以直接复制到知乎，CSDN 等。
 
+- [多吉搜索](https://www.dogedoge.com/)
+
+  搜索引擎，搜索出来的信息偏向专业以及权威。
+
 ### 软件
 
 - [ShadowSock](https://shadowsocks.org/en/index.html)
@@ -52,6 +56,7 @@
 - [Bandzip](http://www.bandisoft.com/bandizip/)
 
   一款韩国人开发的解压缩软件，十分好用。
+
     
 ## 更新日志
 
@@ -66,3 +71,4 @@
 `2019.10.04`
 
 - 添加 mdnice 在线编写 Markdown 工具
+- 添加多吉搜索

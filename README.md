@@ -20,6 +20,10 @@
 
     在上面搜书特别方便，不是太小众的都可以找到。
 
+- [mdnice](mdnice.com)
+
+    支持自定义样式的在线微信 Markdown 排版工具，写好后可以直接复制到知乎，CSDN 等。
+
 ### 软件
 
 - [ShadowSock](https://shadowsocks.org/en/index.html)
@@ -48,10 +52,6 @@
 - [Bandzip](http://www.bandisoft.com/bandizip/)
 
   一款韩国人开发的解压缩软件，十分好用。
-
-- [mdnice](mdnice.com)
-
-    支持自定义样式的在线微信 Markdown 排版工具，写好后可以直接复制到知乎，CSDN 等。
     
 ## 更新日志
 

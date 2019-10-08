@@ -28,6 +28,10 @@
 
   搜索引擎，搜索出来的信息偏向专业以及权威。
 
+- [聚合图床](https://www.superbed.cn/)
+
+  写 markdown 时很经常用到图片，那么就要给图片找个 URL, 聚合图床就可以实现，而且多处备份，不怕图片丢失。
+
 ### 软件
 
 - [ShadowSock](https://shadowsocks.org/en/index.html)
@@ -72,3 +76,9 @@
 
 - 添加 mdnice 在线编写 Markdown 工具
 - 添加多吉搜索
+
+`2019.10.08`
+
+- 添加聚合图床
+
+

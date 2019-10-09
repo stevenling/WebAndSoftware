@@ -44,6 +44,10 @@
 
 - [阳志平的网志](https://www.yangzhiping.com/)
 
+- [学而时嘻之 用理工科思维理解世界](https://www.geekonomics10000.com/)
+
+- [刘未鹏](http://mindhacks.cn/)
+
 - [少数派](https://sspai.com/)
 
 - [人人都是产品经理](http://www.woshipm.com/)

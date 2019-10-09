@@ -1,24 +1,30 @@
 ## 概述
 推荐一些较好的，有帮助的网站和软件，会不断更新。
 ### 网站
+
+#### 下载资源
+
 - [MSDN,我告诉你](https://msdn.itellyou.cn/) 
 
     可以在这边下载 Windows 操作系统，VS， Office 等等，下载的方式是一个 ed2k 的链接，复制后用迅雷就可以下载了。
-    
-- [Smallpdf](https://smallpdf.com/cn/)
-    
-    可以对 pdf 进行转换，比如 word 转 pdf， ppt 转 pdf 等。
+
 - [电影天堂](https://www.dytt8.net/)
     
     一般的电影都可以找到，很方便。
 
--  [阿里巴巴图标矢量库](https://www.iconfont.cn/)
+- [阿里巴巴图标矢量库](https://www.iconfont.cn/)
 
     有很多很好看的图标，大学时候编写课程设计软件的一些图标就是在上面找的。
-    
+
 - [鸠摩搜索](https://www.jiumodiary.com/)
 
     在上面搜书特别方便，不是太小众的都可以找到。
+
+#### 工具
+    
+- [Smallpdf](https://smallpdf.com/cn/)
+    
+    可以对 pdf 进行转换，比如 word 转 pdf， ppt 转 pdf 等。
 
 - [mdnice](https://mdnice.com)
 
@@ -31,6 +37,18 @@
 - [聚合图床](https://www.superbed.cn/)
 
   写 markdown 时很经常用到图片，那么就要给图片找个 URL, 聚合图床就可以实现，而且多处备份，不怕图片丢失。
+
+#### 文章阅读
+
+- [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
+
+- [阳志平的网志](https://www.yangzhiping.com/)
+
+- [少数派](https://sspai.com/)
+
+- [人人都是产品经理](http://www.woshipm.com/)
+
+- [WaitButWhy](https://waitbutwhy.com/)
 
 ### 软件
 

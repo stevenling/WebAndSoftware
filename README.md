@@ -1,8 +1,8 @@
-## 概述
+# 概述
 推荐一些较好的，有帮助的网站和软件，会不断更新。
-### 网站
+## 网站
 
-#### 下载资源
+### 下载资源
 
 - [MSDN,我告诉你](https://msdn.itellyou.cn/) 
 
@@ -20,7 +20,7 @@
 
     在上面搜书特别方便，不是太小众的都可以找到。
 
-#### 工具
+### 工具
     
 - [Smallpdf](https://smallpdf.com/cn/)
     
@@ -38,7 +38,7 @@
 
   写 markdown 时很经常用到图片，那么就要给图片找个 URL, 聚合图床就可以实现，而且多处备份，不怕图片丢失。
 
-#### 文章阅读
+### 文章阅读
 
 - [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
 
@@ -54,7 +54,7 @@
 
 - [WaitButWhy](https://waitbutwhy.com/)
 
-### 软件
+## 软件
 
 - [ShadowSock](https://shadowsocks.org/en/index.html)
 
@@ -102,5 +102,8 @@
 `2019.10.08`
 
 - 添加聚合图床
+
+## 声明
+<a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh"><img alt="知识共享许可协议" style="border-width: 0" src="https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png"></a><br>本作品采用 <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh">署名-非商业性使用-禁止演绎 4.0 国际</a> 进行许可。
 
 

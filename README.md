@@ -54,7 +54,9 @@
 
 - [人人都是产品经理](http://www.woshipm.com/)
 
-- [WaitButWhy](https://waitbutwhy.com/)
+- [Wait But Why](https://waitbutwhy.com/)
+
+- [简单心理](https://www.jiandanxinli.com/knowledge)
 
 ## 软件
 
@@ -104,6 +106,17 @@
 `2019.10.08`
 
 - 添加聚合图床
+
+`2019.10.09`
+
+- 添加文章阅读
+
+`2019.10.10`
+
+- 添加简单心理
+- 添加 cc 声明
+
+
 
 ## 声明
 <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh"><img alt="知识共享许可协议" style="border-width: 0" src="https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png"></a><br>本作品采用 <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh">署名-非商业性使用-禁止演绎 4.0 国际</a> 进行许可。

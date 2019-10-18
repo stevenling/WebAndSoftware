@@ -39,7 +39,10 @@
 - [聚合图床](https://www.superbed.cn/)
 
   写 markdown 时很经常用到图片，那么就要给图片找个 URL, 聚合图床就可以实现，而且多处备份，不怕图片丢失。
-
+  
+- [Trello](https://trello.com)
+    
+  任务管理工具，可以做 ToDoList
 ### 文章阅读
 
 - [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)

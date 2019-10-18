@@ -90,7 +90,7 @@
     
 ## 更新日志
 
-[log](https://github.com/stevenling/web-and-software-recommend/wiki/log)
+完整日志请点击 [update log](https://github.com/stevenling/web-and-software-recommend/wiki/log)
 
 
 

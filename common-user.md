@@ -26,6 +26,10 @@
 
 ### 工具
 
+- [MikuTools](https://tools.miku.ac/)
+
+  数十款工具集合，强到没朋友。
+
 - [Smallpdf](https://smallpdf.com/cn/)
 
   可以对 pdf 进行转换，比如 word 转 pdf， ppt 转 pdf 等。

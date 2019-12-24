@@ -97,6 +97,10 @@
 
   一款韩国人开发的解压缩软件，十分好用。
 
+- [Listen 1](http://listen1.github.io/listen1/)
+
+    Listen 1 可以搜索和播放来自网易云音乐，虾米，QQ音乐，酷狗音乐，酷我音乐网站的歌曲，让你的曲库更全面。
+    
 ## 更新日志
 
 完整日志请点击 [update log](https://github.com/stevenling/web-and-software-recommend/wiki/log)
